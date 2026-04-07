@@ -1,4 +1,4 @@
-Bomberman ASCII
+# Bomberman ASCII
 
 BomberMan ASCII is a terminal-based game written in C++ inspired by the classic Bomberman.
 The game uses ASCII graphics and features 5 interconnected levels, enemies, bomb mechanics, power-ups, a scoring system, and a global timer, all playable directly in the terminal.
